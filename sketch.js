@@ -43,7 +43,7 @@ function preload() {
   winMusic=loadSound("Images/Win.mp3");
   bananaImage=loadImage("Images/boss1Weapon.png");
   powerUpImg=loadImage("Images/powerUp.png");
-  boss2Image=loadImage("Images/boss2.png");
+  boss2Image=loadImage("Images/Boss2.png");
   boss2WeaponIMG=loadImage("Images/boss2Weapon.png")
   boss3Image=loadImage("Images/boss3.png");
   grenadeImage=loadImage("Images/boss3Weapon.png");
